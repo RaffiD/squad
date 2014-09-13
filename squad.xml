@@ -1,0 +1,16 @@
+<?xml version="1.0"?>
+<?DOCTYPE squad SYSTEM "squad.dtd"?>
+<?xml-stylesheet href="squad.xsl" type="text/xsl"?>
+<squad nick="SS">
+	<name>Space Sloth</name>
+	<email>raffi@hotmail.com.au</email>
+	<web>www.example.com</web>
+	<picture>logo.paa</picture>
+	<title>Never Trust A Sloth</title>
+	<member id="76561198082953846" nick="SpaceSloth">
+		<name>Raffi Demirian</name>
+		<email>raffi@hotmail.com.au</email>
+		<icq>N/A</icq>
+		<remark>Never Trust A Sloth</remark>
+	</member>
+</squad>
